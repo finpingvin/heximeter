@@ -1,0 +1,8 @@
+.aider*
+.env
+zig-out
+.zig-cache
+.cache
+cdb
+.vscode
+compile_commands.json
